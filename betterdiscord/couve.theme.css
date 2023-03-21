@@ -13,7 +13,7 @@
   --version: "2.3.0";
 
   /* Colors */
-  --main-color: #419e85;
+  --main-color: #EA5455;
 
   /* Borders */
   --avatar-radius: 8px;
@@ -52,9 +52,9 @@
   /* BGs */
   --background-primary: #fafafa;
   --background-secondary: #f7f7f7;
-  --background-secondary-alt: #fff;
-  --background-secondary-alt-alt: #eee;
-  --background-tertiary: #fff;
+  --background-secondary-alt: #F9F5EB;
+  --background-secondary-alt-alt: #E4DCCF;
+  --background-tertiary: #002B5B;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
