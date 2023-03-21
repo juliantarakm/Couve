@@ -50,11 +50,11 @@
 
 .theme-light {
   /* BGs */
-  --background-primary: #fafafa;
-  --background-secondary: #f7f7f7;
-  --background-secondary-alt: #F9F5EB;
-  --background-secondary-alt-alt: #E4DCCF;
-  --background-tertiary: #002B5B;
+  --background-primary: #FFF5E4;
+  --background-secondary: #FFF5E4;
+  --background-secondary-alt: #FFE3E1;
+  --background-secondary-alt-alt: #FFD1D1;
+  --background-tertiary: #FF9494;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
